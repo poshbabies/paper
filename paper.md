@@ -1,5 +1,5 @@
-Author: Norvi Palad
-Title: Testing Git
+Author: Norvi Palad V3
+Title: Testing Git V2
 
 This is an introduction.
 
