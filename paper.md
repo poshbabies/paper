@@ -9,3 +9,4 @@ Cite previous studies in introduction
 Give context for research
 
 Simulations
+Add methodology section, including a reference to model
